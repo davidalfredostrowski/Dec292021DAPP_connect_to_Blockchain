@@ -45,6 +45,13 @@ so far this is the winning install w/ the following webpack.config mods  - allow
    19  npm start
    20  history
 
+
+
+don't forget to npm intall defnitions      ........
+
+
+
+
 copy in webpack.config.js
 
 here are the changes to your standard webpack.config.js
